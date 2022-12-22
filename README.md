@@ -8,25 +8,23 @@ JSP 개인 프로젝트
 
 **3. 작업기간** : 2022. 9. 5 ~ 9. 19
 
-**4. 개발 목표**
-
-가상의 쇼핑몰 구현 (사진 및 상품정보는 피그먼트(http://pigment.co.kr/) 사이트 참조)
+**4. 개발 목표** : 가상의 쇼핑몰 구현 (사진 및 상품정보는 피그먼트(http://pigment.co.kr/) 사이트 참조)
 
 **5. 사용 기술**
 
-언어 : Java, JSP, HTML, CSS, JS, ajax
+- 언어 : Java, JSP, HTML, CSS, JS, ajax
 
-프로그램 : eclipse, sql developer
+- 프로그램 : eclipse, sql developer
 
-서버 : Tomcat, Oracle
+- 서버 : Tomcat, Oracle
 
 **6. 주요기능**
 
-회원가입 및 로그인 기능
+- 회원가입 및 로그인 기능
 
-상품 구경 및 장바구니 기능
+- 상품 구경 및 장바구니 기능
 
-게시판 글쓰기 및 조회/수정/삭제 기능
+- 게시판 글쓰기 및 조회/수정/삭제 기능
 
 
 **7. Advanced Feature**
@@ -64,4 +62,4 @@ public ArrayList<Product> getList(int pageNumber, String group) {
   ```
 
 
-**8. 개선사항 ** : 장바구니 기능을 아직 완성하지 못하여 추후 보완 예정입니다.
+**8. 개선사항** : 장바구니 기능을 아직 완성하지 못하여 추후 보완 예정입니다.
