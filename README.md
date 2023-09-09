@@ -14,11 +14,15 @@ JSP 개인 프로젝트
 
 **5. 사용 기술**
 
-- 언어 : Java, JSP, HTML, CSS, JS, ajax
-
-- 프로그램 : eclipse, sql developer
-
-- 서버 : Tomcat, Oracle
+- 언어 : java, javaScript
+  
+- 웹 개발 : JSP, HTML, CSS(bootstrap), ajax
+  
+- 서버 : Tomcat
+  
+- DB : Oracle
+  
+- IDE : eclipse, sql developer, Github
 
 **6. 주요기능**
 
